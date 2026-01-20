@@ -1,2 +1,2 @@
 # Student-Management-System
-A student management system to store roll no , marks , etc .
+A menu driven program to store roll no , marks , etc .
